@@ -1,2 +1,2 @@
 # C-Ratio
-header only impametion of rational data type
+Header only implantation of rational data type in c.
